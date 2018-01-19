@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="javax.swing.JLabel"/>
+<fullyQualifiedTypeName name="javax.swing.JFrame"/>
+<fullyQualifiedTypeName name="com.qq.client.tools.ClientThread"/>
+<fullyQualifiedTypeName name="com.qq.common.User"/>
+<fullyQualifiedTypeName name="com.qq.client.model.QQClientUser"/>
+<fullyQualifiedTypeName name="com.qq.client.model.ClientConServer"/>
+<fullyQualifiedTypeName name="java.net.ServerSocket"/>
+<fullyQualifiedTypeName name="com.qq.server.model.QQServer"/>
+<fullyQualifiedTypeName name="com.qq.client.view.QQClientChat"/>
+<fullyQualifiedTypeName name="java.util.Date"/>
+<fullyQualifiedTypeName name="java.net.Socket"/>
+<fullyQualifiedTypeName name="com.qq.server.model.ManageSerConClientThread"/>
+<fullyQualifiedTypeName name="com.qq.client.tools.ManageQQChat"/>
+<fullyQualifiedTypeName name="java.util.HashMap"/>
+<fullyQualifiedTypeName name="com.qq.client.view.QQClientFriendList"/>
+<fullyQualifiedTypeName name="com.qq.client.tools.ManageQQFriendList"/>
+<fullyQualifiedTypeName name="com.qq.client.tools.ManageClientConSerThread"/>
+<fullyQualifiedTypeName name="com.qq.client.tools.ClientConSerThread"/>
+<fullyQualifiedTypeName name="java.io.ObjectOutputStream"/>
+<fullyQualifiedTypeName name="com.qq.common.Message"/>
+<fullyQualifiedTypeName name="com.qq.common.MessageType"/>
+</qualifiedTypeNameHistroy>
